@@ -1,0 +1,27 @@
+{
+  "name": "wss_chat",
+  "version": "0.0.1",
+  "description": "I heard wss you said?",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git@github.com/tzhongyan/wss_chat.git"
+  },
+  "keywords": [
+    "ws",
+    "wss"
+  ],
+  "author": "tzhongyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tzhongyan/wss_chat/issues"
+  },
+  "homepage": "https://github.com/tzhongyan/wss_chat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^7.1.2"
+  }
+}
